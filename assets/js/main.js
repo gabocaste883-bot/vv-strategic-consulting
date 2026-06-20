@@ -19,14 +19,14 @@ function setLang(lang) {
   }
 
   document.title = current === 'en'
-    ? 'V&V Strategic Consulting | Security & Risk Advisory'
-    : 'V&V Strategic Consulting | Seguridad e Inteligencia de Riesgos';
+    ? 'JC Strategic Consulting | Security & Risk Advisory'
+    : 'JC Strategic Consulting | Seguridad e Inteligencia de Riesgos';
 
-  localStorage.setItem('vv-lang', current);
+  localStorage.setItem('jc-lang', current);
 }
 
 btn?.addEventListener('click', () => setLang(current === 'en' ? 'es' : 'en'));
-setLang(localStorage.getItem('vv-lang') || 'en');
+setLang(localStorage.getItem('jc-lang') || 'en');
 
 const year = document.getElementById('year');
 if (year) year.textContent = new Date().getFullYear();

@@ -1,4 +1,4 @@
-# V&V Strategic Consulting Landing Page
+# JC Strategic Consulting Landing Page
 
 Updated clean bilingual landing page with simplified hero section, service visuals, and EN/ES switcher.
 
