@@ -1,3 +1,3 @@
 # JC Strategic Consulting Landing Page
 
-Final updated version with clean JC Strategic Consulting hero section, office-style consultant image, bilingual EN/ES switcher, and no V&V branding.
+Final updated version with cleaner hero, reduced right-side brand block, optimized about image framing and floating WhatsApp contact button.
